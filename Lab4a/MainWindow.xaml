@@ -1,0 +1,20 @@
+﻿<Window x:Class="Lab4a.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab4a"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="550" Width="900">
+    <Canvas>
+        <Label/>
+        <Button x:Name="kowertuj" Content="Konwertuj" RenderTransformOrigin="0.506,0.411" Height="47" Width="142" HorizontalAlignment="Center" Canvas.Left="46" Canvas.Top="348" VerticalAlignment="Top" Click="Button_Click" FontSize="16" FontWeight="Bold"/>
+        <Label Content="Wybierz ścieżke do pliku csv : " Canvas.Left="46" Canvas.Top="77" HorizontalAlignment="Left" VerticalAlignment="Center" Width="228" FontSize="16"/>
+        <Label Content="Wybierz ścieżke do pliku html : " Canvas.Left="46" Canvas.Top="192" Width="228" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="16"/>
+        <TextBox Name="textBoxCSV" TextWrapping="Wrap" Width="404" HorizontalAlignment="Center" Canvas.Left="46" Canvas.Top="113" VerticalAlignment="Center" Height="24" TextChanged="TextBox_TextChanged" RenderTransformOrigin="0.502,0.687"/>
+        <TextBox Name="textBoxHTML" TextWrapping="Wrap" Width="404" Canvas.Left="46" Canvas.Top="229" HorizontalAlignment="Center" VerticalAlignment="Top" TextChanged="TextBox_TextChanged_2" Height="24"/>
+        <Button Name="OpenFileButton" Content="Open File" Click="OpenFileButton_Click" Width="100" Height="30" Canvas.Left="274" Canvas.Top="79" HorizontalAlignment="Left" VerticalAlignment="Top" />
+        <Button Content="Open File" Canvas.Left="274" Canvas.Top="192" RenderTransformOrigin="0.505,0.561" Height="30" Width="100" HorizontalAlignment="Left" VerticalAlignment="Top" Click="Button_Click_1"/>
+        <Image Name ="GifImage" Height="290" Canvas.Left="569" Canvas.Top="90" Width="279"/>
+    </Canvas>
+</Window>
