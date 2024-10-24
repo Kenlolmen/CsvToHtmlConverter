@@ -3,19 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\Lab4a\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F4B0ABA9-F30D-4C1B-AC27-8A0E1AE9372C}|Lab4a\\Lab4a.csproj|c:\\users\\lenovo\\source\\repos\\lab4a\\lab4a\\pliki operacyjne\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F4B0ABA9-F30D-4C1B-AC27-8A0E1AE9372C}|Lab4a\\Lab4a.csproj|solutionrelative:lab4a\\pliki operacyjne\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4B0ABA9-F30D-4C1B-AC27-8A0E1AE9372C}|Lab4a\\Lab4a.csproj|c:\\users\\lenovo\\source\\repos\\lab4a\\lab4a\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F4B0ABA9-F30D-4C1B-AC27-8A0E1AE9372C}|Lab4a\\Lab4a.csproj|C:\\Users\\Lenovo\\source\\repos\\Lab4a\\lab4a\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4B0ABA9-F30D-4C1B-AC27-8A0E1AE9372C}|Lab4a\\Lab4a.csproj|solutionrelative:lab4a\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4B0ABA9-F30D-4C1B-AC27-8A0E1AE9372C}|Lab4a\\Lab4a.csproj|c:\\users\\lenovo\\source\\repos\\lab4a\\lab4a\\pliki operacyjne\\file.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{F4B0ABA9-F30D-4C1B-AC27-8A0E1AE9372C}|Lab4a\\Lab4a.csproj|C:\\Users\\Lenovo\\source\\repos\\Lab4a\\lab4a\\pliki operacyjne\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4B0ABA9-F30D-4C1B-AC27-8A0E1AE9372C}|Lab4a\\Lab4a.csproj|solutionrelative:lab4a\\pliki operacyjne\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4B0ABA9-F30D-4C1B-AC27-8A0E1AE9372C}|Lab4a\\Lab4a.csproj|C:\\Users\\Lenovo\\source\\repos\\Lab4a\\lab4a\\pliki operacyjne\\file.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{F4B0ABA9-F30D-4C1B-AC27-8A0E1AE9372C}|Lab4a\\Lab4a.csproj|solutionrelative:lab4a\\pliki operacyjne\\file.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4B0ABA9-F30D-4C1B-AC27-8A0E1AE9372C}|Lab4a\\Lab4a.csproj|c:\\users\\lenovo\\source\\repos\\lab4a\\lab4a\\convert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F4B0ABA9-F30D-4C1B-AC27-8A0E1AE9372C}|Lab4a\\Lab4a.csproj|C:\\Users\\Lenovo\\source\\repos\\Lab4a\\lab4a\\convert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F4B0ABA9-F30D-4C1B-AC27-8A0E1AE9372C}|Lab4a\\Lab4a.csproj|solutionrelative:lab4a\\convert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,17 +26,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Lab4a\\Lab4a\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Lab4a\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\Lab4a\\Lab4a\\MainWindow.xaml.cs",
               "RelativeToolTip": "Lab4a\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAA5wDIAAAAeAAAA",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAgwDIAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T12:01:53.055Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "Lab4a\\Convert.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T12:00:16.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T12:00:16.758Z"
             },
             {
               "$type": "Document",
@@ -64,12 +63,11 @@
               "RelativeToolTip": "Lab4a\\pliki operacyjne\\File.csv",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
-              "WhenOpened": "2024-10-24T11:32:10.223Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T11:32:10.223Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.html",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\Lab4a\\Lab4a\\pliki operacyjne\\Index.html",
               "RelativeDocumentMoniker": "Lab4a\\pliki operacyjne\\Index.html",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "Lab4a\\pliki operacyjne\\Index.html",
               "ViewState": "AQIAABIAAAAAAAAAAAAAACoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-10-24T11:29:33.039Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T11:29:33.039Z"
             }
           ]
         }
